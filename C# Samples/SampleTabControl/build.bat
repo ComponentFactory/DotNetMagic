@@ -1,0 +1,1 @@
+csc /out:.\..\..\..\bin\SampleTabControl.exe /win32icon:.\..\..\..\Source\MagicLibrary\Resources\LibraryIcon.ico /target:winexe /recurse:*.cs /reference:.\..\..\..\bin\MagicLibrary.dll /resource:SampleImages.bmp,SampleTabControl.SampleImages.bmp /resource:SampleIcon.ico,SampleTabControl.SampleIcon.ico
